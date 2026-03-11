@@ -1,0 +1,4 @@
+This project is a spider-type movement bot that can do basic walking. It has 4 arms and 2 joints per arm. I made this project because in all my years of robotics through both many FIRST robotics teams across levels, and personal projects, I had never made a robot move besides on wheels, and I wanted to see what it was like. This project has taught me new cadding techniques, electronics, and hopefully will teach me some new coding skills. I wanted to also do a custom PCB but it did not make sense for this project. It may be a future add-on. 
+
+<img width="809" height="535" alt="image" src="https://github.com/user-attachments/assets/264cbc85-f244-4449-8fad-12b7e198400f" />
+<img width="809" height="535" alt="image" src="https://github.com/user-attachments/assets/6ac56025-977c-4871-9dd3-a45f44279ebb" />
